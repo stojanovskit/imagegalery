@@ -1,0 +1,11 @@
+img{
+  width: 30%;
+  display: inline-flex;
+  padding: 5px;
+  border-radius: 15px;
+
+}
+img:hover{
+  width: 33%;
+cursor: pointer;
+}
